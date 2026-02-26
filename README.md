@@ -114,45 +114,47 @@ This helps the system remain maintainable and scalable.
 
 ## Screenshots
 
+### Dashboard
+<img src="screenshots/dashboard.png" width="600">
+
+### Company List
+<img src="screenshots/company-list.png" width="600">
+
 ### Company Balance Entries
 <img src="screenshots/company-balance-entries.png" width="600">
 
 ### Company Credit Limit
 <img src="screenshots/company-credit-limit.png" width="600">
 
-### Company List
-<img src="screenshots/company-list.png" width="600">
-
-### Dashboard
-<img src="screenshots/dashboard.png" width="600">
-
-### Delivery
-<img src="screenshots/delivery.png" width="600">
+### Purchase Request List
+<img src="screenshots/purchase-request-list.png" width="600">
 
 ### Inbound
 <img src="screenshots/inbound.png" width="600">
 
-### Purchase Request List
-<img src="screenshots/purchase-request-list.png" width="600">
-
 ### Quotation List
 <img src="screenshots/quotation-list.png" width="600">
+
+### Delivery
+<img src="screenshots/delivery.png" width="600">
+
+### Warehouse Item List
+<img src="screenshots/warehouse-item-list.png" width="600">
 
 ### Role List
 <img src="screenshots/role-list.png" width="600">
 
-### Settings
-<img src="screenshots/settings.png" width="600">
-
 ### User List
 <img src="screenshots/user-list.png" width="600">
 
-### Warehouse Item List
-<img src="screenshots/warehouse-item-list.png" width="600">
+### Settings
+<img src="screenshots/settings.png" width="600">
 
 ---
 
 ## Notes
 
 All screenshots are taken from an internal system and have been sanitized to remove any sensitive or confidential information.
+
 This documentation is provided only to demonstrate my experience in building business workflow systems.
+
